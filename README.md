@@ -41,5 +41,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 [brandonsutan@gmail.com](mailto:brandonsutan@gmail.com)
 
-Project Link: [https://github.com/brandonsutan/colorquest](https://github.com/brandonsutan/colorquest)
+[https://github.com/brandonsutan/colorquest](https://github.com/brandonsutan/colorquest)
 
