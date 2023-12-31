@@ -39,7 +39,7 @@ Your contributions are what make the open-source community such an amazing place
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [brandonsutan@gmail.com](mailto:brandonsutan@gmail.com)
+[brandonsutan@gmail.com](mailto:brandonsutan@gmail.com)
 
 Project Link: [https://github.com/brandonsutan/colorquest](https://github.com/brandonsutan/colorquest)
 
